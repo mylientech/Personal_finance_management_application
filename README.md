@@ -9,8 +9,8 @@ Chào mừng bạn đến với Ứng Dụng Quản Lý Tài Chính Cá Nhân!
 - Lập Kế Hoạch Tài Chính: Tạo kế hoạch ngắn và dài hạn với gợi ý ngân sách.
 - Báo Cáo Trực Quan: Xem biểu đồ và phân tích chi tiêu địa phương (ví dụ: chi Tết).
 - Đồng Bộ Đa Thiết Bị & Ngoại Tuyến: Truy cập dữ liệu mọi lúc, kể cả khi mất mạng.
-- Trò Chơi Hóa: Nhận huy hiệu khi ghi chép đều đặn để duy trì động lực.
-- Tương Lai Thông Minh: Kế hoạch tích hợp AI và phân tích SMS ngân hàng.
+- Trò Chơi Hóa: Nhận **huy hiệu chuỗi**  khi ghi chép đều đặn để duy trì động lực.
+- Tương Lai Thông Minh: Kế hoạch **tích hợp AI** và phân tích SMS ngân hàng.
 # Tại sao nên chọn ứng dụng này?
 - Dễ Sử Dụng: Giao diện thân thiện, làm quen trong <5 phút.
 - Địa Phương Hóa: Phù hợp với người Việt, có tính năng gần gũi.
