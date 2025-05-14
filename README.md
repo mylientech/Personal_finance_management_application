@@ -4,8 +4,8 @@ Chào mừng bạn đến với Ứng Dụng Quản Lý Tài Chính Cá Nhân!
 Ứng dụng web này giúp người dùng Việt Nam (sinh viên, nhân viên văn phòng, nội trợ) dễ dàng kiểm soát tài chính. Với thiết kế đơn giản, ứng dụng hỗ trợ theo dõi thu chi, đặt ngân sách và xây dựng thói quen tài chính bền vững.
 
 # Tính Năng Chính
-Ghi Chép Nhanh: Nhập thu chi trong <10 giây, tự động phân loại.
-Hạn Mức & Cảnh Báo: Đặt giới hạn chi tiêu, nhận thông báo cá nhân hóa.
+- Ghi Chép Nhanh: Nhập thu chi trong <10 giây, tự động phân loại.
+- Hạn Mức & Cảnh Báo: Đặt giới hạn chi tiêu, nhận thông báo cá nhân hóa.
 Lập Kế Hoạch Tài Chính: Tạo kế hoạch ngắn và dài hạn với gợi ý ngân sách.
 Báo Cáo Trực Quan: Xem biểu đồ và phân tích chi tiêu địa phương (ví dụ: chi Tết).
 Đồng Bộ Đa Thiết Bị & Ngoại Tuyến: Truy cập dữ liệu mọi lúc, kể cả khi mất mạng.
